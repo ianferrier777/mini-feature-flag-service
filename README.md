@@ -1,6 +1,6 @@
 # 🏁 Mini Feature Flag Service
 
-A lightweight feature flag API written in Go, inspired by production-grade systems like Netflix's Fast Feature Work Delivery. Supports:
+A lightweight feature flag API written in Go. Supports:
 
 - In-memory flag storage with optional persistence to file
 - User and region-based targeting
