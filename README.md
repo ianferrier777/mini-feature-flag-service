@@ -27,12 +27,14 @@ GET /healthz
 
 Response:
 ```json
-OK
+"OK"
 ```
 
 ### Check a Flag
 
+```
 GET /flags/:flagName?userId=FILL_ME_IN&region=FILL_ME_IN
+```
 
 Response:
 ```json
